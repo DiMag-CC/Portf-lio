@@ -17,4 +17,4 @@ Este é meu site pessoal desenvolvido com HTML, CSS e JavaScript, criado para ap
 
 ## 📌 Objetivo
 
- - Este repositório tem como objetivo somplificar o acesso as minhas informações para possíveis contatos e networking da área de trabalho.
+ - Este repositório tem como objetivo simplificar o acesso as minhas informações para possíveis contatos e networking da área de trabalho.
